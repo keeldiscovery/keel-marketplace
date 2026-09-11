@@ -16,7 +16,7 @@
         "ref": "release"
       },
       "description": "Connect the local Keel runtime to Keel Cloud without leaving your agent, and stop it again when you ask. The runtime travels inside the plugin; Python 3.9 or newer is the one prerequisite.",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "author": {
         "name": "Keel Discovery",
         "url": "https://github.com/keeldiscovery"
